@@ -19,6 +19,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
+    "**/*.js",
     "components/Sidebar.js",
     "components/Center.js",
     "components/Player.js",
