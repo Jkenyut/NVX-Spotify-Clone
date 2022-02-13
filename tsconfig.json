@@ -15,6 +15,18 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "components/Sidebar.js"],
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "components/Sidebar.js",
+    "components/Center.js",
+    "components/Player.js",
+    "components/Song.js",
+    "components/Songs.js",
+    "components/useSongInfo.js",
+    "atoms/playlistAtom.js",
+    "atoms/songAtom.js"
+  ],
   "exclude": ["node_modules"]
 }
