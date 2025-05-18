@@ -1,7 +1,9 @@
 ```markdown
 # Next.js + Tailwind CSS Starter
 
-This project is a boilerplate for building modern web applications using [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/). It supports both JavaScript and TypeScript, and uses npm for package management.
+This project is a boilerplate for building modern web applications using [Next.js](https://nextjs.org/)
+and [Tailwind CSS](https://tailwindcss.com/). It supports both JavaScript and TypeScript, and uses npm for package
+management.
 
 ## Features
 
