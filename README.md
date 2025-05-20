@@ -12,13 +12,14 @@ management.
 - ⚛️ React for building UI components
 - 🛠️ TypeScript support (optional)
 - 🔥 Fast development with hot reloading
+```
 
 ## Getting Started
 
-1. **Install dependencies:**
+1. Install dependencies:
    ```bash
    npm install
-   ```
+    ```
 
 2. **Run the development server:**
    ```bash
