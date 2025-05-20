@@ -42,6 +42,7 @@ npm start
 ## Contributing
 
 Contributions are welcome! To contribute:
+
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature`).
 3. Commit your changes (`git commit -m "Add your feature"`).
@@ -55,5 +56,6 @@ This project is licensed under the MIT License. See the [LICENSE](https://openso
 ## Contact
 
 For inquiries or feedback, please contact:
+
 - Satria Nur Saputro: [satrianursaputro06@gmail.com](mailto:satrianursaputro06@gmail.com)
 
