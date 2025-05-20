@@ -39,11 +39,6 @@ npm start
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 
-## License
-
-This project is licensed under the MIT License.
-
-
 ## Contributing
 
 Contributions are welcome! To contribute:
