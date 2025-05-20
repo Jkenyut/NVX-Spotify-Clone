@@ -1,6 +1,9 @@
 #Spotify Clone
 
-Spotify clone is a modern web application that replicates the core features and design of [Spotify](https://spotify.com), built using [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/). This project demonstrates a full-featured music streaming UI, authentication, playlist management, and responsive design.
+Spotify clone is a modern web application that replicates the core features and design
+of [Spotify](https://spotify.com), built using [Next.js](https://nextjs.org/)
+and [Tailwind CSS](https://tailwindcss.com/). This project demonstrates a full-featured music streaming UI,
+authentication, playlist management, and responsive design.
 
 ## Features
 
