@@ -95,6 +95,10 @@ The easiest way to deploy this application is with [Vercel](https://vercel.com/)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/)
 
+## 🙏 Acknowledgements
+
+A special thank you to [Sonny Sangha](https://www.youtube.com/@SonnySangha) for the guidance and support provided throughout the development of this project.
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you'd like to improve the project:
